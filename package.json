@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "a simple html game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexusNull/tic-tac-toe.git"
+  },
+  "author": "NexusNull, NoKnowledge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NexusNull/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/NexusNull/tic-tac-toe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
